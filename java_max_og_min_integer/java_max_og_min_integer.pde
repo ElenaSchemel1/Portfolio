@@ -1,6 +1,7 @@
 
 int num;
 // her er det samme problem som vi talte om i timen! væk med de funktioner ;) 
+// her er lige et forslag til en ændring....
 
 
 void setup(){
