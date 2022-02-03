@@ -1,12 +1,10 @@
 
+String sætning = "Hej med dig!";
 
 
-void setup(){
-
-  String sætning = "Hej med dig!";
   
   //Opg1
-  for (int i=0; i<=5; i++){
+  for (int i=0; i<5; i++){ 
     println(sætning.charAt(i));
   }
  
@@ -123,10 +121,3 @@ void setup(){
   
   
   
-}
-
-
-void draw(){
-  
-  
-}
